@@ -47,3 +47,71 @@ Navbar
 .user-icon-container:hover {
   text-decoration: none;
 }
+/*
+==================================================
+
+Hero Section
+
+==================================================
+*/
+
+.hero-section {
+  padding: 4rem;
+  display: grid;
+  justify-content: center;
+  user-select: none;
+}
+.google-logo-container {
+  width: 60vw;
+  justify-self: center;
+}
+
+@media screen and (min-width: 768px) {
+  .google-logo-container {
+    width: 35vw;
+  }
+}
+.google-logo {
+  max-width: 100%;
+}
+
+.search-bar-container {
+  padding: 1rem;
+}
+.search-bar {
+  padding: 0.5rem;
+  border: 0.5px solid rgb(209, 209, 209);
+  border-radius: 30px;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 1rem;
+  align-items: center;
+  width: 90vw;
+  min-height: 2.5rem;
+}
+@media screen and (min-width: 768px) {
+  .search-bar {
+    width: 45vw;
+  }
+}
+.search-bar:hover {
+  box-shadow: -1px 0px 0px 1px rgba(209, 209, 209, 0.96);
+  -webkit-box-shadow: -1px 0px 0px 1px rgba(209, 209, 209, 0.96);
+  -moz-box-shadow: -1px 0px 0px 1px rgba(209, 209, 209, 0.96);
+}
+.input {
+  border: none;
+  outline: none;
+  font-size: 1rem;
+}
+.search-icon-container {
+  justify-self: start;
+  padding-left: 0.5rem;
+}
+.mic-icon-container {
+  justify-self: end;
+  padding-right: 0.5rem;
+}
+.search-bar span:hover {
+  cursor: pointer;
+}
