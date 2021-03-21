@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*
+=======================================
+
+Navbar
+
+=======================================
+ */
+
+.nav {
+  padding: 1rem;
+  padding-right: 2rem;
+  user-select: none;
+}
+.nav-list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  justify-content: end;
+  gap: 2rem;
+}
+.nav-list-item {
+  display: flex;
+  align-items: center;
+}
+.nav-list-item:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.google-apps-icon {
+  padding: 0.5rem;
+}
+
+.google-apps-icon-container:hover {
+  border-radius: 50%;
+  background: rgb(230, 230, 230);
+  text-decoration: none;
+}
+.user-icon {
+  font-size: 1.4rem;
+}
+.user-icon-container:hover {
+  text-decoration: none;
+}
