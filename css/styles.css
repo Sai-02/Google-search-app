@@ -16,6 +16,7 @@ Navbar
   padding: 1rem;
   padding-right: 2rem;
   user-select: none;
+  /* display: none; To be deleted */
 }
 .nav-list {
   list-style: none;
@@ -60,6 +61,7 @@ Hero Section
   display: grid;
   justify-content: center;
   user-select: none;
+  /* display: none; To be deleted */
 }
 .google-logo-container {
   width: 60vw;
@@ -95,9 +97,9 @@ Hero Section
   }
 }
 .search-bar:hover {
-  box-shadow: -1px 0px 0px 1px rgba(209, 209, 209, 0.96);
-  -webkit-box-shadow: -1px 0px 0px 1px rgba(209, 209, 209, 0.96);
-  -moz-box-shadow: -1px 0px 0px 1px rgba(209, 209, 209, 0.96);
+  box-shadow: -2px -2px 5px 2px rgba(200, 200, 200, 0.21);
+  -webkit-box-shadow: -2px -2px 5px 2px rgba(200, 200, 200, 0.21);
+  -moz-box-shadow: -2px -2px 5px 2px rgba(200, 200, 200, 0.21);
 }
 .input {
   border: none;
@@ -114,4 +116,22 @@ Hero Section
 }
 .search-bar span:hover {
   cursor: pointer;
+}
+.search-bar-btn {
+  padding: 0.5rem 0.3rem;
+  background: #f0eeee;
+  border: none;
+  border-radius: 5px;
+  margin-left: 1rem;
+  outline: none;
+}
+.search-bar-btn:hover {
+  cursor: pointer;
+  box-shadow: -2px 0px 5px 7px rgba(230, 230, 230, 0.3);
+  -webkit-box-shadow: -2px 0px 5px 7px rgba(230, 230, 230, 0.3);
+  -moz-box-shadow: -2px 0px 5px 7px rgba(230, 230, 230, 0.3);
+}
+.search-bar-btn-container {
+  display: flex;
+  justify-content: center;
 }
