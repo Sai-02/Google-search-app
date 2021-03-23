@@ -163,7 +163,7 @@ Search Page
   list-style: none;
   display: grid;
   text-align: center;
-  grid-template-areas: "b" "c";
+  grid-template-columns: 1fr;
   gap: 1rem;
   max-width: 100%;
 }
@@ -172,7 +172,7 @@ Search Page
   display: grid;
   justify-content: center;
   justify-self: center;
-  grid-area: b;
+
   text-align: center;
 }
 .searchPage-logo {
@@ -187,7 +187,7 @@ Search Page
   grid-template-columns: 1fr auto auto;
   gap: 1rem;
   align-items: center;
-  /* width: auto; */
+
   min-height: 2.5rem;
 }
 .searchPage-search-bar:hover {
@@ -203,12 +203,9 @@ Search Page
   border-right: 1px solid #dfe1e5;
   padding-right: 0.5rem;
 }
-.searchPage-search-bar-container {
-  grid-area: c;
-}
+
 .searchPage-user-icon {
   display: none;
-  grid-area: d;
 }
 .searchPage-google-apps-icon-container {
   width: 100%;
@@ -217,23 +214,37 @@ Search Page
   align-items: flex-start;
 }
 .searchPage-google-apps-icon-container2 {
-  grid-area: e;
   display: none;
   align-items: center;
 }
 @media screen and (min-width: 660px) {
-  /* .searchPage-search-bar {
-    width: auto;
-  } */
+  .searchPage-nav-list-item {
+    display: flex;
+    align-items: center;
+  }
   .searchPage-user-icon {
-    display: grid;
-    grid-area: e;
+    align-self: center;
   }
   .searchPage-google-apps-icon-container2 {
     display: grid;
-    grid-area: d;
   }
   .searchPage-nav-list {
-    grid-template-areas: "b c c c c c c f f d e";
+    grid-template-columns: 6fr 27fr 7fr 1fr 1fr;
+    gap: 0.5rem;
+  }
+  .searchPage-logo {
+    align-self: center;
+    width: 70%;
+  }
+  .searchPage-logo-container {
+    justify-self: start;
+  }
+  .searchPage-search-bar-container {
+    display: flex;
+    align-items: center;
+  }
+  .searchPage-search-bar {
+    width: 100%;
+    justify-self: start;
   }
 }
