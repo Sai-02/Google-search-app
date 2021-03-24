@@ -1,0 +1,1269 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - codechef",
+                "totalResults": "1680000",
+                "searchTerms": "codechef",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "c08585697f416761f"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - codechef",
+                "totalResults": "1680000",
+                "searchTerms": "codechef",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "c08585697f416761f"
+            }
+        ]
+    },
+    "context": {
+        "title": "Google"
+    },
+    "searchInformation": {
+        "searchTime": 1.352173,
+        "formattedSearchTime": "1.35",
+        "totalResults": "1680000",
+        "formattedTotalResults": "1,680,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "CodeChef: Competitive Programming | Participate & Learn",
+            "htmlTitle": "<b>CodeChef</b>: Competitive Programming | Participate &amp; Learn",
+            "link": "https://www.codechef.com/",
+            "displayLink": "www.codechef.com",
+            "snippet": "CodeChef - A Platform for Aspiring Programmers. CodeChef was created as a \nplatform to help programmers make it big in the world of algorithms, computer ...",
+            "htmlSnippet": "<b>CodeChef</b> - A Platform for Aspiring Programmers. <b>CodeChef</b> was created as a <br>\nplatform to help programmers make it big in the world of algorithms, computer&nbsp;...",
+            "cacheId": "OoysQlIxUjYJ",
+            "formattedUrl": "https://www.codechef.com/",
+            "htmlFormattedUrl": "https://www.<b>codechef</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbxGofB_yrGrBzpXGEy7Vqd2yS7PgSxMqkxs4zGCP9NYrAmQ_8f_I_kL35",
+                        "width": "353",
+                        "height": "143"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.codechef.com/sites/all/themes/abessive/logo.png",
+                        "og:type": "website",
+                        "fb:app_id": "191217060453",
+                        "og:title": "CodeChef | Competitive Programming | Participate & Learn | CodeChef",
+                        "og:url": "https://www.codechef.com/",
+                        "og:description": "CodeChef | Competitive Programming | Participate & Learn | CodeChef"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.codechef.com/sites/all/themes/abessive/logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CodeChef Discuss",
+            "htmlTitle": "<b>CodeChef</b> Discuss",
+            "link": "https://discuss.codechef.com/",
+            "displayLink": "discuss.codechef.com",
+            "snippet": "Welcome to the new CodeChef Discuss. This is a collaboratively edited question \nand answer site for all CodeChef programmers to discuss questions related to ...",
+            "htmlSnippet": "Welcome to the new <b>CodeChef</b> Discuss. This is a collaboratively edited question <br>\nand answer site for all <b>CodeChef</b> programmers to discuss questions related to&nbsp;...",
+            "cacheId": "KmGwuRoa1fcJ",
+            "formattedUrl": "https://discuss.codechef.com/",
+            "htmlFormattedUrl": "https://discuss.<b>codechef</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVEbQA4UuwtrFK_GfiUR0pA-twkoEhpLdkpnTtmd7NwvIsQmDc-wCTA",
+                        "width": "431",
+                        "height": "117"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s3.amazonaws.com/discourseproduction/original/3X/7/f/7ffd6e5e45912aba9f6a1a33447d6baae049de81.svg",
+                        "theme-color": "#ffffff",
+                        "twitter:card": "summary",
+                        "twitter:title": "CodeChef Discuss",
+                        "og:site_name": "CodeChef Discuss",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover",
+                        "twitter:url": "https://discuss.codechef.com/",
+                        "twitter:description": "Welcome to the new CodeChef Discuss. This is a collaboratively edited question and answer site for all CodeChef programmers to discuss questions related to CodeChef, programming, online judges, data-structures and algorithms and everything related.",
+                        "og:title": "CodeChef Discuss",
+                        "og:url": "https://discuss.codechef.com/",
+                        "og:description": "Welcome to the new CodeChef Discuss. This is a collaboratively edited question and answer site for all CodeChef programmers to discuss questions related to CodeChef, programming, online judges, data-structures and algorithms and everything related.",
+                        "twitter:image": "https://s3.amazonaws.com/discourseproduction/original/3X/7/f/7ffd6e5e45912aba9f6a1a33447d6baae049de81.svg"
+                    }
+                ],
+                "itemlist": [
+                    {
+                        "itemlistorder": "http://schema.org/ItemListOrderDescending"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3.amazonaws.com/discourseproduction/original/3X/7/f/7ffd6e5e45912aba9f6a1a33447d6baae049de81.svg"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "next page →",
+                        "url": "next page →"
+                    },
+                    {
+                        "name": "Home",
+                        "url": "Home"
+                    },
+                    {
+                        "name": "Categories",
+                        "url": "Categories"
+                    },
+                    {
+                        "name": "FAQ/Guidelines",
+                        "url": "FAQ/Guidelines"
+                    },
+                    {
+                        "name": "Terms of Service",
+                        "url": "Terms of Service"
+                    },
+                    {
+                        "name": "Privacy Policy",
+                        "url": "Privacy Policy"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "name": "A few tips to get faster response for your problem",
+                        "position": "1",
+                        "url": "https://discuss.codechef.com/t/a-few-tips-to-get-faster-response-for-your-problem/60990"
+                    },
+                    {
+                        "name": "Paypal | Online Coding | SE1 question set",
+                        "position": "2",
+                        "url": "https://discuss.codechef.com/t/paypal-online-coding-se1-question-set/86867"
+                    },
+                    {
+                        "name": "Help needed in DP question",
+                        "position": "3",
+                        "url": "https://discuss.codechef.com/t/help-needed-in-dp-question/87065"
+                    },
+                    {
+                        "name": "Filter different contests",
+                        "position": "4",
+                        "url": "https://discuss.codechef.com/t/filter-different-contests/87071"
+                    },
+                    {
+                        "name": "Coin Piles problem from cses",
+                        "position": "5",
+                        "url": "https://discuss.codechef.com/t/coin-piles-problem-from-cses/28647"
+                    },
+                    {
+                        "name": "How to solve the following problem",
+                        "position": "6",
+                        "url": "https://discuss.codechef.com/t/how-to-solve-the-following-problem/87066"
+                    },
+                    {
+                        "name": "Why i am not getting the right answer?",
+                        "position": "7",
+                        "url": "https://discuss.codechef.com/t/why-i-am-not-getting-the-right-answer/87070"
+                    },
+                    {
+                        "name": "LECANDY - Editorial",
+                        "position": "8",
+                        "url": "https://discuss.codechef.com/t/lecandy-editorial/275"
+                    },
+                    {
+                        "name": "PLZLYKME - Editorial",
+                        "position": "9",
+                        "url": "https://discuss.codechef.com/t/plzlykme-editorial/4201"
+                    },
+                    {
+                        "name": "How can i check my rank?",
+                        "position": "10",
+                        "url": "https://discuss.codechef.com/t/how-can-i-check-my-rank/86990"
+                    },
+                    {
+                        "name": "GUESSIT - EDITORIAL",
+                        "position": "11",
+                        "url": "https://discuss.codechef.com/t/guessit-editorial/86916"
+                    },
+                    {
+                        "name": "Python input",
+                        "position": "12",
+                        "url": "https://discuss.codechef.com/t/python-input/87054"
+                    },
+                    {
+                        "name": "Why is it wrong, even though it is correct?",
+                        "position": "13",
+                        "url": "https://discuss.codechef.com/t/why-is-it-wrong-even-though-it-is-correct/87055"
+                    },
+                    {
+                        "name": "Periodic String",
+                        "position": "14",
+                        "url": "https://discuss.codechef.com/t/periodic-string/87063"
+                    },
+                    {
+                        "name": "Can anyone explain me what is wrong with this code?",
+                        "position": "15",
+                        "url": "https://discuss.codechef.com/t/can-anyone-explain-me-what-is-wrong-with-this-code/87028"
+                    },
+                    {
+                        "name": "File is too long will generate error",
+                        "position": "16",
+                        "url": "https://discuss.codechef.com/t/file-is-too-long-will-generate-error/87059"
+                    },
+                    {
+                        "name": "ANKTRAIN - Editorial",
+                        "position": "17",
+                        "url": "https://discuss.codechef.com/t/anktrain-editorial/14157"
+                    },
+                    {
+                        "name": "CHEFSORT - Editorial",
+                        "position": "18",
+                        "url": "https://discuss.codechef.com/t/chefsort-editorial/86846"
+                    },
+                    {
+                        "name": "SPACEARR - Editorial",
+                        "position": "19",
+                        "url": "https://discuss.codechef.com/t/spacearr-editorial/86608"
+                    },
+                    {
+                        "name": "[Official] Contest 4 Hints",
+                        "position": "20",
+                        "url": "https://discuss.codechef.com/t/official-contest-4-hints/65295"
+                    },
+                    {
+                        "name": "Amazon 6 Months Data Engineer Intern Interviews Experience",
+                        "position": "21",
+                        "url": "https://discuss.codechef.com/t/amazon-6-months-data-engineer-intern-interviews-experience/87050"
+                    },
+                    {
+                        "name": "SHIVIGOD - EDITORIAL",
+                        "position": "22",
+                        "url": "https://discuss.codechef.com/t/shivigod-editorial/21775"
+                    },
+                    {
+                        "name": "CHRIST02 - Editorial",
+                        "position": "23",
+                        "url": "https://discuss.codechef.com/t/christ02-editorial/58632"
+                    },
+                    {
+                        "name": "CONDEL march cook off help needed",
+                        "position": "24",
+                        "url": "https://discuss.codechef.com/t/condel-march-cook-off-help-needed/87048"
+                    },
+                    {
+                        "name": "Use this for anything related to plagiarism - Reporting cheating, appeals, etc",
+                        "position": "25",
+                        "url": "https://discuss.codechef.com/t/use-this-for-anything-related-to-plagiarism-reporting-cheating-appeals-etc/63544"
+                    },
+                    {
+                        "name": "WATRA - Editorial",
+                        "position": "26",
+                        "url": "https://discuss.codechef.com/t/watra-editorial/86896"
+                    },
+                    {
+                        "name": "Array Rotation",
+                        "position": "27",
+                        "url": "https://discuss.codechef.com/t/array-rotation/87042"
+                    },
+                    {
+                        "name": "CONDEL - Editorial",
+                        "position": "28",
+                        "url": "https://discuss.codechef.com/t/condel-editorial/86848"
+                    },
+                    {
+                        "name": "MARCH CONTEST 2021",
+                        "position": "29",
+                        "url": "https://discuss.codechef.com/t/march-contest-2021/87034"
+                    },
+                    {
+                        "name": "DE Shaw Quality & Test Engineer OA",
+                        "position": "30",
+                        "url": "https://discuss.codechef.com/t/de-shaw-quality-test-engineer-oa/87047"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CodeChef Online Compiler | Integrated Development Environment ...",
+            "htmlTitle": "<b>CodeChef</b> Online Compiler | Integrated Development Environment ...",
+            "link": "https://www.codechef.com/ide",
+            "displayLink": "www.codechef.com",
+            "snippet": "CodeChef - A Platform for Aspiring Programmers. CodeChef was created as a \nplatform to help programmers make it big in the world of algorithms, computer ...",
+            "htmlSnippet": "<b>CodeChef</b> - A Platform for Aspiring Programmers. <b>CodeChef</b> was created as a <br>\nplatform to help programmers make it big in the world of algorithms, computer&nbsp;...",
+            "cacheId": "mQe6jtc_bMoJ",
+            "formattedUrl": "https://www.codechef.com/ide",
+            "htmlFormattedUrl": "https://www.<b>codechef</b>.com/ide",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbxGofB_yrGrBzpXGEy7Vqd2yS7PgSxMqkxs4zGCP9NYrAmQ_8f_I_kL35",
+                        "width": "353",
+                        "height": "143"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.codechef.com/sites/all/themes/abessive/logo.png",
+                        "og:type": "website",
+                        "fb:app_id": "191217060453",
+                        "og:title": "CodeChef Online Compiler | Integrated Development Environment | CodeChef",
+                        "og:url": "https://www.codechef.com/ide",
+                        "og:description": "CodeChef Online Compiler | Integrated Development Environment | CodeChef"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.codechef.com/sites/all/themes/abessive/logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Data Structures and Algorithms - tutorial - CodeChef Discuss",
+            "htmlTitle": "Data Structures and Algorithms - tutorial - <b>CodeChef</b> Discuss",
+            "link": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599",
+            "displayLink": "discuss.codechef.com",
+            "snippet": "Hi all, I need your help to make a list of most used data structures and algorithms \nalong with their tutorials, implementation and some problems on them. It will be ...",
+            "htmlSnippet": "Hi all, I need your help to make a list of most used data structures and algorithms <br>\nalong with their tutorials, implementation and some problems on them. It will be&nbsp;...",
+            "cacheId": "s02ZIIamRbsJ",
+            "formattedUrl": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599",
+            "htmlFormattedUrl": "https://discuss.<b>codechef</b>.com/t/data-structures-and-algorithms/6599",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVEbQA4UuwtrFK_GfiUR0pA-twkoEhpLdkpnTtmd7NwvIsQmDc-wCTA",
+                        "width": "431",
+                        "height": "117"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/discourseproduction/original/3X/c/4/c459d7c8a0a14eb41e0438bd468c06b1a54dc4eb.png"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "neo1tech9_7",
+                        "url": "neo1tech9_7"
+                    },
+                    {
+                        "name": "ravi0213",
+                        "url": "ravi0213"
+                    },
+                    {
+                        "name": "its_pheonix",
+                        "url": "its_pheonix"
+                    },
+                    {
+                        "name": "utkarsh13",
+                        "url": "utkarsh13"
+                    },
+                    {
+                        "name": "grvana",
+                        "url": "grvana"
+                    },
+                    {
+                        "name": "johri21",
+                        "url": "johri21"
+                    },
+                    {
+                        "name": "vicky002",
+                        "url": "vicky002"
+                    },
+                    {
+                        "name": "codemaster1994",
+                        "url": "codemaster1994"
+                    },
+                    {
+                        "name": "ronakymca",
+                        "url": "ronakymca"
+                    },
+                    {
+                        "name": "rajat_dtc",
+                        "url": "rajat_dtc"
+                    },
+                    {
+                        "name": "rishavz_sagar",
+                        "url": "rishavz_sagar"
+                    },
+                    {
+                        "name": "ravi0213",
+                        "url": "ravi0213"
+                    },
+                    {
+                        "name": "gdisastery1",
+                        "url": "gdisastery1"
+                    },
+                    {
+                        "name": "maheshd13",
+                        "url": "maheshd13"
+                    },
+                    {
+                        "name": "tech_boy",
+                        "url": "tech_boy"
+                    },
+                    {
+                        "name": "usaxena95",
+                        "url": "usaxena95"
+                    },
+                    {
+                        "name": "gaurav_vk",
+                        "url": "gaurav_vk"
+                    },
+                    {
+                        "name": "freeman92",
+                        "url": "freeman92"
+                    },
+                    {
+                        "name": "thechamp103",
+                        "url": "thechamp103"
+                    },
+                    {
+                        "name": "amitt001",
+                        "url": "amitt001"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    },
+                    {
+                        "name": "CodeChef"
+                    }
+                ],
+                "interactioncounter": [
+                    {
+                        "userinteractioncount": "1087",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "15",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "37",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "2",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "6",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "5",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "10",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "13",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "33",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "8",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "19",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "3",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "3",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "17",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "0",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "8",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "2",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "2",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "29",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "2",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "4",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "2",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "2",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "2",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    },
+                    {
+                        "userinteractioncount": "5",
+                        "interactiontype": "http://schema.org/LikeAction"
+                    },
+                    {
+                        "userinteractioncount": "1",
+                        "interactiontype": "http://schema.org/CommentAction"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s3.amazonaws.com/discourseproduction/original/3X/7/f/7ffd6e5e45912aba9f6a1a33447d6baae049de81.svg",
+                        "theme-color": "#ffffff",
+                        "twitter:card": "summary",
+                        "twitter:title": "Data Structures and Algorithms",
+                        "article:published_time": "2014-07-31T23:29:21+00:00",
+                        "og:site_name": "CodeChef Discuss",
+                        "twitter:url": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599",
+                        "og:title": "Data Structures and Algorithms",
+                        "og:description": "Hi all,  I need your help to make a list of most used data structures and algorithms along with their tutorials, implementation and some problems on them. It will be helpful to everyone in many ways. I request everyone to contribute to this list by providing links to tutorials, problems, etc. I will keep updating this list regularly.    Binary Search :  Tutorial, Problems, Tutorial, Implementation, Problem    Quicksort :  Tutorial, Implementation, Tutorial    Merge Sort :  Tutorial, Implementati...",
+                        "twitter:image": "https://s3.amazonaws.com/discourseproduction/original/3X/7/f/7ffd6e5e45912aba9f6a1a33447d6baae049de81.svg",
+                        "og:ignore_canonical": "true",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover",
+                        "twitter:description": "Hi all,  I need your help to make a list of most used data structures and algorithms along with their tutorials, implementation and some problems on them. It will be helpful to everyone in many ways. I request everyone to contribute to this list by providing links to tutorials, problems, etc. I will keep updating this list regularly.    Binary Search :  Tutorial, Problems, Tutorial, Implementation, Problem    Quicksort :  Tutorial, Implementation, Tutorial    Merge Sort :  Tutorial, Implementati...",
+                        "og:url": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    }
+                ],
+                "discussionforumposting": [
+                    {
+                        "articlebody": "Hi all, I need your help to make a list of most used data structures and algorithms along with their tutorials, implementation and some problems on them. It will be helpful to everyone in many...",
+                        "datemodified": "2020-05-09T09:38:20Z",
+                        "keywords": "algorithm, data-structure",
+                        "position": "#1",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-07-31T23:29:21Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "name": "Data Structures",
+                        "url": "https://discuss.codechef.com/t/data-structures/6833/5"
+                    },
+                    {
+                        "name": "Must known algorithms and data structures",
+                        "url": "https://discuss.codechef.com/t/must-known-algorithms-and-data-structures/48451/3"
+                    },
+                    {
+                        "name": "DATA STRUCTURE AND ALGORITHMS",
+                        "url": "https://discuss.codechef.com/t/data-structure-and-algorithms/49421/2"
+                    },
+                    {
+                        "name": "Programming practices and learning",
+                        "url": "https://discuss.codechef.com/t/programming-practices-and-learning/31698/3"
+                    },
+                    {
+                        "name": "Graph and trees",
+                        "url": "https://discuss.codechef.com/t/graph-and-trees/50854/2"
+                    },
+                    {
+                        "name": "Should I quit competitive programing...?",
+                        "url": "https://discuss.codechef.com/t/should-i-quit-competitive-programing/54426/10"
+                    },
+                    {
+                        "name": "Hello there, I am having hard time dealing with dp problems can you help me get started with them",
+                        "url": "https://discuss.codechef.com/t/hello-there-i-am-having-hard-time-dealing-with-dp-problems-can-you-help-me-get-started-with-them/68110/8"
+                    },
+                    {
+                        "name": "Best Resources to learn all Competitive Programming concepts [Zero to Hero]",
+                        "url": "https://discuss.codechef.com/t/best-resources-to-learn-almost-all-cp-concepts/77584/3"
+                    },
+                    {
+                        "name": "ZIO09002 - Editorial",
+                        "url": "https://discuss.codechef.com/t/zio09002-editorial/52659/11"
+                    },
+                    {
+                        "articlebody": "we already have a topic for list of imp algo http://discuss.codechef.com/questions/18752/what-are-the-must-known-algorithms-for-online-programming-contests",
+                        "datemodified": "2014-08-01T00:02:06Z",
+                        "position": "#2",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-01T00:02:06Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "A good initiative",
+                        "datemodified": "2014-08-01T05:18:55Z",
+                        "position": "#3",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-01T05:18:55Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "add geeksforgeeks.org for tutorials",
+                        "datemodified": "2014-08-03T11:44:38Z",
+                        "position": "#4",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-03T11:44:38Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "I bookmarked this page… relating to the problem is best part… thanku… want more…",
+                        "datemodified": "2014-08-03T14:54:46Z",
+                        "position": "#5",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-03T14:54:46Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "Nice Initiative I would recommend http://e-maxx.ru/algo/ for the implementation and theory. Make use of google translate. It also have a good set of questions in the end. For DP I would recommend...",
+                        "datemodified": "2014-08-04T02:21:10Z",
+                        "position": "#6",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-04T02:21:10Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "Take a look of this website once…Explanation of all the algorithms from different sources can be found at one place!!! http://algorithm.daqwest.com/",
+                        "datemodified": "2014-08-05T19:49:49Z",
+                        "position": "#7",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-05T19:49:49Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "link The above link has lesser known but useful data structures.",
+                        "datemodified": "2014-08-07T10:54:36Z",
+                        "position": "#8",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-07T10:54:36Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "I think stackoverflow can also be of immense help. Really awesome effort.",
+                        "datemodified": "2014-08-07T12:42:44Z",
+                        "position": "#9",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-07T12:42:44Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "For heavy-light decomposition - http://wcipeg.com/wiki/Heavy-light_decomposition",
+                        "datemodified": "2014-08-07T13:48:57Z",
+                        "position": "#10",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-07T13:48:57Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "I have found a nice implementation of Dijkstra’s algorithm using c++. Please , have a look at the following link: http://zobayer.blogspot.in/2009/12/dijkstras-algorithm-in-c.html",
+                        "datemodified": "2014-08-09T14:13:36Z",
+                        "position": "#11",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-09T14:13:36Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "Matrix exponentiation : http://zobayer.blogspot.in/2010/11/matrix-exponentiation.html related problem : http://www.hackerearth.com/problem/algorithm/long-walks-from-office-to-home-sweet-home-1/",
+                        "datemodified": "2014-08-12T21:49:12Z",
+                        "position": "#12",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-12T21:49:12Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "One might try http://e-maxx.ru/ It’s in Russian though, but Google translator might help.",
+                        "datemodified": "2014-08-15T14:35:37Z",
+                        "position": "#13",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-15T14:35:37Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "Quick Select Deque Binary Search Trees",
+                        "datemodified": "2014-08-15T16:39:09Z",
+                        "position": "#14",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-15T16:39:09Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "Really good work. God Bless you and you will win IOI",
+                        "datemodified": "2014-08-17T11:59:29Z",
+                        "position": "#15",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-17T11:59:29Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "GRUNDY NUMBERS- letuskode.blogspot.com Grundy numbers for competitive programming Consider a simple game which two players can play. There are N coins in a pile. In each turn, a player can...",
+                        "datemodified": "2014-08-18T02:27:21Z",
+                        "position": "#16",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-18T02:27:21Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "Superb initiative !! Keep it up I hope i will help you",
+                        "datemodified": "2014-08-18T11:10:28Z",
+                        "position": "#17",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-18T11:10:28Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "persistent segment tree: Explanation with basic code, tutorial with implementations of spoj and codechef problems by Anudeep Nekkanti",
+                        "datemodified": "2014-08-24T20:32:04Z",
+                        "position": "#18",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-24T20:32:04Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "Try this for classical problems of dp(interactive tutorial) http://people.cs.clemson.edu/~bcdean/dp_practice/",
+                        "datemodified": "2014-08-31T00:42:10Z",
+                        "position": "#19",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-31T00:42:10Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    },
+                    {
+                        "articlebody": "This one is an awesome and very good crash course of STL here Add this to list.",
+                        "datemodified": "2014-08-31T10:21:29Z",
+                        "position": "#20",
+                        "headline": "Data Structures and Algorithms",
+                        "datepublished": "2014-08-31T10:21:29Z",
+                        "mainentityofpage": "https://discuss.codechef.com/t/data-structures-and-algorithms/6599"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3.amazonaws.com/discourseproduction/original/3X/7/f/7ffd6e5e45912aba9f6a1a33447d6baae049de81.svg"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "next page →",
+                        "url": "next page →"
+                    },
+                    {
+                        "name": "Home",
+                        "url": "Home"
+                    },
+                    {
+                        "name": "Categories",
+                        "url": "Categories"
+                    },
+                    {
+                        "name": "FAQ/Guidelines",
+                        "url": "FAQ/Guidelines"
+                    },
+                    {
+                        "name": "Terms of Service",
+                        "url": "Terms of Service"
+                    },
+                    {
+                        "name": "Privacy Policy",
+                        "url": "Privacy Policy"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "tutorial",
+                        "name": "tutorial",
+                        "position": "1"
+                    },
+                    {
+                        "position": "342"
+                    },
+                    {
+                        "position": "343"
+                    },
+                    {
+                        "position": "344"
+                    },
+                    {
+                        "position": "345"
+                    },
+                    {
+                        "position": "346"
+                    },
+                    {
+                        "position": "347"
+                    },
+                    {
+                        "position": "348"
+                    },
+                    {
+                        "position": "349"
+                    },
+                    {
+                        "position": "350"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Coding Problems by Difficulty Levels | CodeChef",
+            "htmlTitle": "Coding Problems by Difficulty Levels | <b>CodeChef</b>",
+            "link": "https://www.codechef.com/problems/school",
+            "displayLink": "www.codechef.com",
+            "snippet": "CodeChef - A Platform for Aspiring Programmers. CodeChef was created as a \nplatform to help programmers make it big in the world of algorithms, computer ...",
+            "htmlSnippet": "<b>CodeChef</b> - A Platform for Aspiring Programmers. <b>CodeChef</b> was created as a <br>\nplatform to help programmers make it big in the world of algorithms, computer&nbsp;...",
+            "cacheId": "Oer2ykj_Jr8J",
+            "formattedUrl": "https://www.codechef.com/problems/school",
+            "htmlFormattedUrl": "https://www.<b>codechef</b>.com/problems/school",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbxGofB_yrGrBzpXGEy7Vqd2yS7PgSxMqkxs4zGCP9NYrAmQ_8f_I_kL35",
+                        "width": "353",
+                        "height": "143"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.codechef.com/sites/all/themes/abessive/logo.png",
+                        "og:type": "website",
+                        "fb:app_id": "191217060453",
+                        "og:title": "Coding Problems by Difficulty Levels | CodeChef",
+                        "og:url": "https://www.codechef.com/problems/school",
+                        "og:description": "Coding Problems by Difficulty Levels | CodeChef"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.codechef.com/sites/all/themes/abessive/logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CodeChef (@codechef) | Twitter",
+            "htmlTitle": "<b>CodeChef</b> (@<b>codechef</b>) | Twitter",
+            "link": "https://twitter.com/codechef?lang=en",
+            "displayLink": "twitter.com",
+            "snippet": "@codechef. CodeChef was created to challenge and engage the developer \ncommunity and provide a platform for practice, competition and improvement. \nMumbai, ...",
+            "htmlSnippet": "@<b>codechef</b>. <b>CodeChef</b> was created to challenge and engage the developer <br>\ncommunity and provide a platform for practice, competition and improvement. <br>\nMumbai,&nbsp;...",
+            "cacheId": "WX3mqwRmuMwJ",
+            "formattedUrl": "https://twitter.com/codechef?lang=en",
+            "htmlFormattedUrl": "https://twitter.com/<b>codechef</b>?lang=en",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS81HcmGcR7SxaBfTiU6uU56oMah1Fb9R68n1nAt6xvErx6-Y-lTFwc18A",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "xfn": [
+                    {}
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#00aced",
+                        "al:android:url": "twitter://user?screen_name=codechef",
+                        "al:ios:app_name": "Twitter",
+                        "swift-page-section": "profile",
+                        "al:android:package": "com.twitter.android",
+                        "swift-page-name": "profile",
+                        "msapplication-tileimage": "//abs.twimg.com/favicons/win8-tile-144.png",
+                        "al:ios:url": "twitter://user?screen_name=codechef",
+                        "al:ios:app_store_id": "333903271",
+                        "al:android:app_name": "Twitter",
+                        "facebook-domain-verification": "moho2ug7zs57jijiywrewd8wb5a08h"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://pbs.twimg.com/profile_images/1366388745117659141/GnqeGBwz_400x400.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Competitive Programming and Coding Challenges | CodeChef",
+            "htmlTitle": "Competitive Programming and Coding Challenges | <b>CodeChef</b>",
+            "link": "https://www.codechef.com/contests",
+            "displayLink": "www.codechef.com",
+            "snippet": "CodeChef - A Platform for Aspiring Programmers. CodeChef was created as a \nplatform to help programmers make it big in the world of algorithms, computer ...",
+            "htmlSnippet": "<b>CodeChef</b> - A Platform for Aspiring Programmers. <b>CodeChef</b> was created as a <br>\nplatform to help programmers make it big in the world of algorithms, computer&nbsp;...",
+            "cacheId": "YUE2pb-cnygJ",
+            "formattedUrl": "https://www.codechef.com/contests",
+            "htmlFormattedUrl": "https://www.<b>codechef</b>.com/contests",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbxGofB_yrGrBzpXGEy7Vqd2yS7PgSxMqkxs4zGCP9NYrAmQ_8f_I_kL35",
+                        "width": "353",
+                        "height": "143"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.codechef.com/sites/all/themes/abessive/logo.png",
+                        "og:type": "website",
+                        "fb:app_id": "191217060453",
+                        "og:title": "Competitive Programming and Coding Challenges | CodeChef",
+                        "og:url": "https://www.codechef.com/contests",
+                        "og:description": "Competitive Programming and Coding Challenges | CodeChef"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.codechef.com/sites/all/themes/abessive/logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CodeChef | Blog",
+            "htmlTitle": "<b>CodeChef</b> | Blog",
+            "link": "https://blog.codechef.com/",
+            "displayLink": "blog.codechef.com",
+            "snippet": "Learn Competitive Programming With CodeChef | Weekly RoundUp. It has been \na pretty scintillating week for budding programmers because of the number of ...",
+            "htmlSnippet": "Learn Competitive Programming With <b>CodeChef</b> | Weekly RoundUp. It has been <br>\na pretty scintillating week for budding programmers because of the number of&nbsp;...",
+            "cacheId": "iane260tIuYJ",
+            "formattedUrl": "https://blog.codechef.com/",
+            "htmlFormattedUrl": "https://blog.<b>codechef</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkLSqJeCsr5QRqeFFvLbusHndbEZnWn-cGMYWm6sOK6TzVKRr1S9ubXEc",
+                        "width": "352",
+                        "height": "143"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "CodeChef",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "CodeChef | Blog",
+                        "og:locale": "en_US",
+                        "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+                        "og:url": "https://blog.codechef.com/",
+                        "og:description": "Blog"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://blog.codechef.com/wp-content/themes/mediumish/images/slider2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Learn Data Structures and Algorithms | CodeChef",
+            "htmlTitle": "Learn Data Structures and Algorithms | <b>CodeChef</b>",
+            "link": "https://www.codechef.com/certification/data-structures-and-algorithms/prepare",
+            "displayLink": "www.codechef.com",
+            "snippet": "CodeChef Certified Data Structure & Algorithms Programme. Next Exam Date. \nMAY 2020; 24. Enroll. Due to Covid- ...",
+            "htmlSnippet": "<b>CodeChef</b> Certified Data Structure &amp; Algorithms Programme. Next Exam Date. <br>\nMAY 2020; 24. Enroll. Due to Covid-&nbsp;...",
+            "cacheId": "OxXK5vgcbvYJ",
+            "formattedUrl": "https://www.codechef.com/certification/data-structures-and.../prepare",
+            "htmlFormattedUrl": "https://www.<b>codechef</b>.com/certification/data-structures-and.../prepare",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbxGofB_yrGrBzpXGEy7Vqd2yS7PgSxMqkxs4zGCP9NYrAmQ_8f_I_kL35",
+                        "width": "353",
+                        "height": "143"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.codechef.com/sites/all/themes/abessive/logo.png",
+                        "og:type": "website",
+                        "fb:app_id": "191217060453",
+                        "og:title": "Learn Data Structures and Algorithms | CodeChef",
+                        "og:url": "https://www.codechef.com/certification/data-structures-and-algorithms/prepare",
+                        "og:description": "Learn Data Structures and Algorithms | CodeChef"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.codechef.com/sites/all/themes/abessive/logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Code correct in IDE but gives error in CodeChef - Stack Overflow",
+            "htmlTitle": "Code correct in IDE but gives error in <b>CodeChef</b> - Stack Overflow",
+            "link": "https://stackoverflow.com/questions/55566645/code-correct-in-ide-but-gives-error-in-codechef",
+            "displayLink": "stackoverflow.com",
+            "snippet": "Scanner; class Codechef { public static void main(String[] args) throws java.lang.\nException { Scanner input = new Scanner(System.in); String ...",
+            "htmlSnippet": "Scanner; class <b>Codechef</b> { public static void main(String[] args) throws java.lang.<br>\nException { Scanner input = new Scanner(System.in); String&nbsp;...",
+            "cacheId": "87M254rPVKQJ",
+            "formattedUrl": "https://stackoverflow.com/.../code-correct-in-ide-but-gives-error-in-codechef",
+            "htmlFormattedUrl": "https://stackoverflow.com/.../code-correct-in-ide-but-gives-error-in-<b>codechef</b>",
+            "pagemap": {
+                "question": [
+                    {
+                        "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+                        "upvotecount": "2",
+                        "answercount": "3",
+                        "name": "Code correct in IDE but gives error in CodeChef",
+                        "text": "i am trying to solve codechef question i am able to get the output in IDE and also with custom input, when i try to run with there inputs then it gives me the error link to question: https://www.co...",
+                        "datecreated": "2019-04-08T05:14:59",
+                        "url": "Share"
+                    }
+                ],
+                "answer": [
+                    {
+                        "upvotecount": "2",
+                        "text": "The \"error\" is caused by the input not been parsable as the required type (ie, Scanner can not either parse the input as int or float) \"A\" solution would be to take the input and manually parse...",
+                        "datecreated": "2019-04-08T08:13:57",
+                        "url": "https://stackoverflow.com/questions/55566645/code-correct-in-ide-but-gives-error-in-codechef/55568913#55568913"
+                    },
+                    {
+                        "upvotecount": "1",
+                        "text": "You're not consuming the space between the input values. Just read the first line using nextLine, and then split and parse the numbers accordingly",
+                        "datecreated": "2019-04-08T05:18:11",
+                        "url": "https://stackoverflow.com/questions/55566645/code-correct-in-ide-but-gives-error-in-codechef/55566673#55566673"
+                    },
+                    {
+                        "upvotecount": "0",
+                        "text": "A simple thing worked for me .... i only surrounded the code by try and catch.... final working code... /* package codechef; // don't place package name! */ import java.util.*; import java.lang.*;...",
+                        "datecreated": "2019-04-08T10:01:10",
+                        "url": "https://stackoverflow.com/questions/55566645/code-correct-in-ide-but-gives-error-in-codechef/55570834#55570834"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "V_for_Vj"
+                    },
+                    {
+                        "name": "MadProgrammer"
+                    },
+                    {
+                        "name": "OneCricketeer"
+                    },
+                    {
+                        "name": "V_for_Vj"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0"
+                    }
+                ]
+            }
+        }
+    ]
+}
