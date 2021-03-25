@@ -326,7 +326,12 @@ Search Page Response Section
 
 =====================================
  */
-
+.time-result {
+  display: none;
+  padding-left: 1rem;
+  padding-top: 0.5rem;
+  color: #9a9a9c;
+}
 .search-response-section {
   /* padding:1rem; */
   /* padding-left: 1.5rem; */
@@ -357,6 +362,9 @@ Search Page Response Section
   text-decoration: underline;
 }
 @media screen and (min-width: 660px) {
+  .time-result {
+    display: grid;
+  }
   .search-response-section {
     grid-template-columns: 6fr 27fr 7fr 1fr 1fr;
   }
