@@ -31,6 +31,10 @@ Navbar
   display: flex;
   align-items: center;
 }
+.nav-list-link {
+  text-decoration: none;
+  color: black;
+}
 .nav-list-item:hover {
   cursor: pointer;
   text-decoration: underline;
@@ -125,6 +129,10 @@ Hero Section
   border-radius: 5px;
   margin-left: 1rem;
   outline: none;
+}
+.search-bar-btn a {
+  text-decoration: none;
+  color: black;
 }
 .search-bar-btn:hover {
   cursor: pointer;
