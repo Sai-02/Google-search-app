@@ -314,3 +314,52 @@ Menu List
     opacity: 0.2;
   }
 }
+
+/*
+=====================================
+
+Search Page Response Section
+
+=====================================
+ */
+
+.search-response-section {
+  /* padding:1rem; */
+  /* padding-left: 1.5rem; */
+  display: grid;
+  /* gap: rem; */
+}
+.search-response-section-space-filler {
+  display: none;
+}
+.search-reponse-container {
+  display: grid;
+  gap: 0.5rem;
+  background: #f3f2f2;
+}
+.response-article {
+  background: white;
+  padding: 1rem 1rem;
+  display: grid;
+  gap: 8px;
+}
+.response-article a {
+  text-decoration: none;
+}
+.response-article h2 {
+  font-weight: 300;
+}
+.response-title:hover {
+  text-decoration: underline;
+}
+@media screen and (min-width: 660px) {
+  .search-response-section {
+    grid-template-columns: 6fr 27fr 7fr 1fr 1fr;
+  }
+  .search-response-section-space-filler {
+    display: grid;
+  }
+  .search-reponse-container {
+    background: white;
+  }
+}
