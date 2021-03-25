@@ -10,6 +10,7 @@ const searchPageInput = document.getElementById("searchPage-input");
 const searchResponseContainer = document.querySelector(
   ".search-reponse-container"
 );
+const searchPageLogo = document.querySelector(".searchPage-logo");
 
 // Searching for response
 
@@ -99,4 +100,10 @@ searchPageInput.addEventListener("keypress", (e) => {
       searchForResponse(searchPageInput.value);
     }
   }
+});
+
+searchPageLogo.addEventListener("click", () => {
+  searchPage.style.display = "none";
+  homePageInput.value = "";
+  homePage.style.display = "grid";
 });
