@@ -4,7 +4,9 @@
   box-sizing: border-box;
   max-width: 1000vw;
 }
-
+.home-page {
+  /* display: none; */
+}
 /*
 =======================================
 
@@ -154,7 +156,9 @@ Search Page
 
  =================================
 */
-
+.search-page {
+  display: none;
+}
 .searchPage-nav {
   padding: 1rem;
   max-width: 100vw;
